@@ -14,8 +14,8 @@ using namespace std;
 //------------------------------------------------------------------------------
 int main()
 {
-
-
+    cout<<"Hello world!"<<endl;
+    
     system("Pause>>nul");
     return 0;
 }
